@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ActiveDebugProfile>IceArena.Client</ActiveDebugProfile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AddEditMetricForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddEditUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AnalyticsTab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="BookingsTab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ClientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProfileForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ScheduleTab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SupportFormcs.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UsersTab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IceArena.Client.AddEditMetricForm" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgRAEAIEQCAEEEEKAACAEBkCCAEQAABECCAlFAIRIwA=</HashCode>
+      <FileName>AddEditMetricForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IceArena.Client.AddEditUserForm" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGgQAAAAASiCEAEEQACAABACMgAgQZRACCBQAAeAQMQ=</HashCode>
+      <FileName>AddEditUserForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IceArena.Client.AdminForm" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABCCAgAgAERACAAggiACoAECEEEAAAZGASAgA=</HashCode>
+      <FileName>AdminForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IceArena.Client.AnalyticsTab" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgEIIBACATARFAAAAGCAABESogAREMhAQCAAA0Gg4EQ=</HashCode>
+      <FileName>AnalyticsTab.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IceArena.Client.TicketDto" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAQAAgAAAAAA=</HashCode>
+      <FileName>BookingForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IceArena.Client.ModernButton" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAIAAAAACAAAgAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>BookingForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IceArena.Client.BookingForm" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAQAAAIDBAIAkACESAQCJSEAACQAEAIAABAQAACgQ=</HashCode>
+      <FileName>BookingForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IceArena.Client.BookingsTab" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FDBAUQCAICAEACNCAAKAARAKCAAQCAAAASAAABABAgQ=</HashCode>
+      <FileName>BookingsTab.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IceArena.Client.ClientForm" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiBINqAAAiYQUADCRAGAGDgiACIwQgFBQAAolQBDGAA=</HashCode>
+      <FileName>ClientForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IceArena.Client.Booking" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAEIAAAAIBBAAAAAAhAAgABAABBBQAAEAAAAAA=</HashCode>
+      <FileName>DataModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IceArena.Client.Ticket" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAIAAAAAAAAAAAAAAAAAAAAAQAAgAAAAAA=</HashCode>
+      <FileName>DataModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IceArena.Client.Review" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAgAAAAAAAEDAAAACAAAAAA=</HashCode>
+      <FileName>DataModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IceArena.Client.EncryptionHelper" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAIAAAAAQAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>EncryptionHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IceArena.Client.Form1" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACoAVgEAACIAAEABYACAAAAGACAAAiAAAAACIABAAFo=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IceArena.Client.GraphicsExtension" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IceArena.Client.ProfileForm" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAEAADACCAEBDCuADKCA0zAAAADAgEAMhiBIABCAI=</HashCode>
+      <FileName>ProfileForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IceArena.Client.Program" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IceArena.Client.RegisterForm" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACoQEkACACMAEAAABASAAAAGAAAQAIBAAABAIMAACEQ=</HashCode>
+      <FileName>RegisterForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IceArena.Client.GraphicsExtensions" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>RegisterForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IceArena.Client.ScheduleTab" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAggAAQSCQAABiBACACAgCCAAQwAAgABAADAABIgQ=</HashCode>
+      <FileName>ScheduleTab.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IceArena.Client.BufferedFlowLayoutPanel" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SupportFormcs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IceArena.Client.SupportForm" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAECCIICAAAAAACCCAAAASAAIgEEgABAgCAhAIAAo=</HashCode>
+      <FileName>SupportFormcs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IceArena.Client.SupportUser" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SupportTab.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IceArena.Client.SupportTab" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAACAACAAhQCCACAQSAAIgAEAABEgCAgAIgQM=</HashCode>
+      <FileName>SupportTab.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IceArena.Client.UsersTab" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACgAAAGCAQEDAAAECBAB4DIwAAkABgACIAAAGKQEQ=</HashCode>
+      <FileName>UsersTab.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatabaseService" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAQQAAAAAAAAIAAAQQQAAA=</HashCode>
+      <FileName>DatabaseService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
